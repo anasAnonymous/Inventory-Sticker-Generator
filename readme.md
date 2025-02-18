@@ -16,7 +16,7 @@ Use the following command to install the required Python libraries:
 
 ```bash
 pip install qrcode[pil] pillow argparse
-
+```
 
 ## How to Run the Program
 - Open the command prompt or terminal.
